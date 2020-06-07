@@ -4,7 +4,7 @@ For paper 'Artificial intuition for solving chemistry problems via an End-to-End
 # db
 we download the [ASE](https://wiki.fysik.dtu.dk/ase/ase/db/db.html) format qm9 from [SchNetPack](https://github.com/atomistic-machine-learning/schnetpack).
 
-you can get it directly from another repo of this paper about [e2e_electron_counting](https://github.com/liuxiaotong15/qm9_electron_counting)
+you can get it directly from another repo of this paper: [e2e_electron_counting](https://github.com/liuxiaotong15/qm9_electron_counting)
 
 # requirments
 tensorflow 1.14,
